@@ -1,4 +1,4 @@
-#Free (and Paid) Resources to Learn iOS Development
+# Resources to Get Started With iOS Development
 
 > Where can I start getting into iOS development? Are there any good resources?
 
